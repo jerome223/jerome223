@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Jérôme St-Jean
-🔭 I’m currently working on a project for detecting epilepsy and doing the 100 days Data.Trek :https://ivado.ca/evenements/100-jours-de-ran-donnees-2/
+🔭 I’m currently working on a project for detecting epilepsy and doing the Ivado event : 100 days Data.Trek
 🌱 Finishing my biomedical engineering bachelor and starting a master in neuroscience
 
 
