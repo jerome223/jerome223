@@ -1,5 +1,11 @@
 ### Hi there 👋 I'm Jérôme St-Jean
 🔭 I’m currently working on a project for detecting epilepsy and doing the 100 days Data.Trek :https://ivado.ca/evenements/100-jours-de-ran-donnees-2/
+🌱 Finishing my biomedical engineering bachelor and starting a master in neuroscience
+
+
+
+
+
 <!--
 **jerome223/jerome223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
